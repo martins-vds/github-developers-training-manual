@@ -11,7 +11,7 @@ source ./shared_functions
 template_name="caption-this"
 org_url="https://$ROOT_URL/$CLASS_ORG"
 org_repos_endpoint="https://$INSTANCE_URL/repos/$CLASS_ORG"
-template_url="https://github.com/githubtraining/$template_name"
+template_url="https://github.com/martins-vds/$template_name"
 template_url_ghes="https://$ROOT_URL/$CLASS_ORG/$template_name"
 
 get_initial_repo_name() {
